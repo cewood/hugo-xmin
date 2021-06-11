@@ -21,6 +21,7 @@ hr {
   border-style: dashed;
   color: #ddd;
 }
+.footnotes { word-break: break-all; }
 
 /* code */
 pre {
